@@ -1,2 +1,2 @@
 # SampleIndira
-INdira college project
+Indira college project
